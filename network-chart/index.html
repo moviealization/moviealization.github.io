@@ -3,11 +3,11 @@
 <title>Moviealization</title>
 <body>
 
-<h1>Network Chart</h1>
-
+<h1>Hubungan Director-Actor per Genre</h1>
+<p>Berikut adalah diagram network, hubungan antara Director dan Actor per Genre dengan IMdB score di atas 7.5</p>
 <!DOCTYPE html>
 <meta charset="utf-8">
-<script src="http://d3js.org/d3.v3.js"></script>
+<script src="https://d3js.org/d3.v3.js"></script>
 <style>
 
 path.link {
@@ -52,13 +52,10 @@ svg {
   background-color:rgb(3, 3, 3);
 }
 
-svg2 {
-  /*background-color:#F5F5F5;*/
-  background-color:rgb(65, 9, 9);
-}
 
 </style>
 <body>
+ <h2>Genre Action</h2>
 <script>
 // get the data
 d3.csv("action.csv", function(error, links) {
@@ -71,8 +68,8 @@ links.forEach(function(link) {
         (nodes[link.target] = {name: link.target});
     link.value = +link.value;
 });
-var width = 2000,
-    height = 2000,
+var width = 1320,
+    height = 2500,
     color = d3.scale.category20c();
 var force = d3.layout.force()
     .nodes(d3.values(nodes))
@@ -161,6 +158,7 @@ function dragended(d) {
 </script>
 
 <script>
+    
 // get the data
 d3.csv("animation.csv", function(error, links) {
 var nodes = {};
@@ -172,8 +170,8 @@ links.forEach(function(link) {
         (nodes[link.target] = {name: link.target});
     link.value = +link.value;
 });
-var width = 2000,
-    height = 2000,
+var width = 1320,
+    height = 2500,
     color = d3.scale.category20c();
 var force = d3.layout.force()
     .nodes(d3.values(nodes))
@@ -186,7 +184,7 @@ var force = d3.layout.force()
 var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height)
-    .style("background-color","red" );
+    .style("background-color","rgb(65, 9, 9)" );
 // build the arrow.
 svg.append("svg:defs").selectAll("marker")
     .data(["end"])      // Different link/path types can be defined here
@@ -261,10 +259,10 @@ function dragended(d) {
   d.fy = null;
 }
 </script>
+
 </body>
 </html>
 
-<p>Upload Network Chart Here !</p>
 
 </body>
 </html>
