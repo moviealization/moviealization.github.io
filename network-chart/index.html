@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
+<meta charset="utf-8">
+<script src="https://d3js.org/d3.v3.js"></script>
 <title>Moviealization</title>
 <body>
 
 <h1>Hubungan Director-Actor per Genre</h1>
 <p>Berikut adalah diagram network, hubungan antara Director dan Actor per Genre dengan IMdB score di atas 7.5</p>
-<!DOCTYPE html>
-<meta charset="utf-8">
-<script src="https://d3js.org/d3.v3.js"></script>
+
 <style>
 
 path.link {
@@ -54,8 +54,7 @@ svg {
 
 
 </style>
-<body>
- <h2>Genre Action</h2>
+<h2>Genre Action</h2>
 <script>
 // get the data
 d3.csv("action.csv", function(error, links) {
@@ -259,10 +258,6 @@ function dragended(d) {
   d.fy = null;
 }
 </script>
-
-</body>
-</html>
-
 
 </body>
 </html>
