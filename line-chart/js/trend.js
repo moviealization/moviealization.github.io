@@ -1,7 +1,7 @@
 //set the margins
-var margin = {top: 50, right: 160, bottom: 80, left: 50},
-    width = 850 - margin.left - margin.right,
-    height = 600 - margin.top - margin.bottom;
+var margin = {top: 10, right: 120, bottom: 50, left: 50},
+    width = 700 - margin.left - margin.right,
+    height = 380 - margin.top - margin.bottom;
 
 // set the type of number here, n is a number with a comma, .2% will get you a percent, .2f will get you 2 decimal points
 var NumbType = d3.format("");
@@ -264,7 +264,7 @@ function redraw() {
 	//create a scale to pass the legend items through
 	var legendscale= d3.scale.category20()
 				.domain(lastvalues)
-				.range([0,20,40,60,80,100,120,140,160,180,200,220,240,260,280,300,320,340,360,380,400,420,440,460,480,500])
+				.range([0,15,30,45,60,75,90,105,120,135,150,165,180,195,210,225,240,255,270,285,300,315,330,345,360,375])
 				
 	//actually add the circles to the created legend container
     legendEnter.append('circle')

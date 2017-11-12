@@ -1,0 +1,409 @@
+source,target,value
+Adam McKay,Christian Bale,1
+Adam McKay,Ryan Gosling,1
+Adam McKay,Charlie Talbert,1
+Alejandro G. Inarritu,Naomi Watts,2
+Alejandro G. Inarritu,Emma Stone,2
+Alejandro G. Inarritu,Merritt Wever,2
+Alexander Payne,Bruce Dern,3
+Alexander Payne,Devin Ratray,3
+Alexander Payne,Will Forte,3
+Alfonso Cuaron,Daniel Gimenez Cacho,4
+Alfonso Cuaron,Maribel Verdu,4
+Alfonso Cuaron,Maria Aura,4
+Alice Wu,Ato Essandoh,5
+Alice Wu,Joan Chen,5
+Alice Wu,Jessica Hecht,5
+Andrew Adamson,Chris Miller,6
+Andrew Adamson,Kathleen Freeman,6
+Andrew Adamson,Bobby Block,6
+Andrew Stanton,Stephen Root,6.2
+Andrew Stanton,Alexander Gould,6.5
+Andrew Stanton,Brad Garrett,6.8
+Anna Muylaert,Regina Case,7.1
+Anna Muylaert,Alex Huszar,7.4
+Anna Muylaert,Luis Miranda,7.7
+Bill Melendez,Bill Melendez,8
+Bill Melendez,Peter Robbins,8.3
+Bill Melendez,Christopher Shea,8.6
+Billy Wilder,Ray Walston,8.9
+Billy Wilder,Joe E. Brown,9.2
+Billy Wilder,Fred MacMurray,9.5
+Billy Wilder,Nehemiah Persoff,9.8
+Billy Wilder,David White,10.1
+Billy Wilder,George Raft,10.4
+Bob Clark,Darren McGavin,10.7
+Bob Clark,Zack Ward,11
+Bob Clark,Scott Schwartz,11.3
+Bob Fosse,Ben Vereen,11.6
+Bob Fosse,Roy Scheider,11.9
+Bob Fosse,Max Wright,12.2
+Brad Bird,John Ratzenberger,12.5
+Brad Bird,Harry Connick Jr.,12.8
+Brad Bird,Janeane Garofalo,13.1
+Brad Bird,Vin Diesel,13.4
+Brad Bird,Brian Dennehy,13.7
+Brad Bird,M. Emmet Walsh,14
+Brian Henson,Jerry Nelson,14.3
+Brian Henson,Steven Mackintosh,14.6
+Brian Henson,Steve Whitmire,14.9
+Cameron Crowe,Zooey Deschanel,15.2
+Cameron Crowe,Philip Seymour Hoffman,15.5
+Cameron Crowe,Michael Angarano,15.8
+Charles Chaplin,Stanley Blystone,16.1
+Charles Chaplin,Paulette Goddard,16.4
+Charles Chaplin,Fred Malatesta,16.7
+Chia-Liang Liu,Anita Mui,17
+Chia-Liang Liu,Andy Lau,17.3
+Chia-Liang Liu,Ho-Sung Pak,17.6
+Chris Buck,Maurice LaMarche,17.9
+Chris Buck,Josh Gad,18.2
+Chris Buck,Livvy Stubenrauch,18.5
+Chris Wedge,Stephen Root,18.8
+Chris Wedge,Goran Visnjic,19.1
+Chris Wedge,Denis Leary,19.4
+Christopher Guest,Fred Willard,19.7
+Christopher Guest,Catherine O'Hara,20
+Christopher Guest,Larry Miller,20.3
+David O. Russell,Robert De Niro,20.6
+David O. Russell,Jennifer Lawrence,20.9
+David O. Russell,Bradley Cooper,21.2
+Dean DeBlois,Djimon Hounsou,21.5
+Dean DeBlois,Gerard Butler,21.8
+Dean DeBlois,America Ferrera,22.1
+Denys Arcand,Stephane Rousseau,22.4
+Denys Arcand,Marie-Josee Croze,22.7
+Denys Arcand,Marina Hands,23
+Don Hall,Daniel Henney,23.3
+Don Hall,Damon Wayans Jr.,23.6
+Don Hall,Abraham Benrubi,23.9
+Edgar Wright,Joe Cornish,24.2
+Edgar Wright,Dylan Moran,24.5
+Edgar Wright,Bill Bailey,24.8
+Edgar Wright,Peter Serafinowicz,25.1
+Edgar Wright,Billie Whitelaw,25.4
+Edgar Wright,Rafe Spall,25.7
+Eli Craig,Tyler Labine,26
+Eli Craig,Katrina Bowden,26.3
+Eli Craig,Chelan Simmons,26.6
+Eugenio Derbez,Jessica Lindsey,26.9
+Eugenio Derbez,Eugenio Derbez,27.2
+Eugenio Derbez,Hugo Stiglitz,27.5
+Fernando León de Aranoa,Enrique Villen,27.8
+Fernando León de Aranoa,Luis Tosar,28.1
+Fernando León de Aranoa,Aida Folch,28.4
+Frank Capra,Ann Miller,28.7
+Frank Capra,Jean Arthur,29
+Frank Capra,Alan Hale,29.3
+Frank Capra,Jean Arthur,29.6
+Frank Capra,Claude Rains,29.9
+Frank Capra,Claudette Colbert,30.2
+Frank Capra,Lionel Barrymore,30.5
+Frank Capra,Thomas Mitchell,30.8
+Frank Capra,Walter Connolly,31.1
+Frank Lotito,Jake Busey,31.4
+Frank Lotito,Brighton Sharbino,31.7
+Frank Lotito,Tim Guinee,32
+George Roy Hill,Robert Shaw,32.3
+George Roy Hill,Eileen Brennan,32.6
+George Roy Hill,Ray Walston,32.9
+Greg Mottola,Joe Lo Truglio,33.2
+Greg Mottola,Emma Stone,33.5
+Greg Mottola,Kevin Corrigan,33.8
+Guy Ritchie,Brad Pitt,34.1
+Guy Ritchie,Brad Pitt,34.4
+Guy Ritchie,Jason Flemyng,34.7
+Guy Ritchie,Jason Statham,35
+Guy Ritchie,Jason Statham,35.3
+Guy Ritchie,Jason Statham,35.6
+Guy Ritchie,Jason Flemyng,35.9
+Guy Ritchie,Jason Flemyng,36.2
+Guy Ritchie,Dexter Fletcher,36.5
+Hao Ning,Zheng Xu,36.8
+Hao Ning,Bo Huang,37.1
+Hao Ning,Zhonghua Chen,37.4
+Harold Ramis,Chris Elliott,37.7
+Harold Ramis,Bill Murray,38
+Harold Ramis,Willie Garson,38.3
+Jaime Zevallos,Jaime Zevallos,38.6
+Jaime Zevallos,Angela Sarafyan,38.9
+Jaime Zevallos,Michael Elian,39.2
+James Frawley,Jim Henson,39.5
+James Frawley,Madeline Kahn,39.8
+James Frawley,Dom DeLuise,40.1
+James L. Brooks,Yeardley Smith,40.4
+James L. Brooks,Lupe Ontiveros,40.7
+James L. Brooks,Shirley Knight,41
+Jason Reitman,Cameron Bright,41.3
+Jason Reitman,J.K. Simmons,41.6
+Jason Reitman,Todd Louiso,41.9
+Jean-Pierre Jeunet,Jamel Debbouze,42.2
+Jean-Pierre Jeunet,Mathieu Kassovitz,42.5
+Jean-Pierre Jeunet,Isabelle Nanty,42.8
+Jim Abrahams,Lloyd Bridges,43.1
+Jim Abrahams,Peter Graves,43.4
+Jim Abrahams,Barbara Billingsley,43.7
+Joel Coen,Tim Blake Nelson,44
+Joel Coen,Jeff Bridges,44.3
+Joel Coen,Holly Hunter,44.6
+Joel Coen,Philip Seymour Hoffman,44.9
+Joel Coen,Daniel von Bargen,45.2
+Joel Coen,Steve Buscemi,45.5
+John Blanchard,Andrea Martin,45.8
+John Blanchard,Martin Short,46.1
+John Blanchard,Joe Flaherty,46.4
+John Cameron Mitchell,Miriam Shor,46.7
+John Cameron Mitchell,John Cameron Mitchell,47
+John Cameron Mitchell,Andrea Martin,47.3
+John Landis,Aretha Franklin,47.6
+John Landis,Karen Allen,47.9
+John Landis,John Belushi,48.2
+John Landis,John Belushi,48.5
+John Landis,Ray Charles,48.8
+John Landis,Tim Matheson,49.1
+John Lasseter,John Ratzenberger,49.4
+John Lasseter,John Ratzenberger,49.7
+John Lasseter,Tom Hanks,50
+John Lasseter,Tom Hanks,50.3
+John Lasseter,Wayne Knight,50.6
+John Lasseter,Jim Varney,50.9
+Jonathan Dayton,Steven Christopher Parker,51.2
+Jonathan Dayton,Steve Carell,51.5
+Jonathan Dayton,Jill Talley,51.8
+Jonathan Levine,Anna Kendrick,52.1
+Jonathan Levine,Joseph Gordon-Levitt,52.4
+Jonathan Levine,Bryce Dallas Howard,52.7
+Justin Paul Miller,Jennifer Landa,53
+Justin Paul Miller,Mary Kate Wiles,53.3
+Justin Paul Miller,Felix Avitia,53.6
+Kay Pollak,Frida Hallgren,53.9
+Kay Pollak,Michael Nyqvist,54.2
+Kay Pollak,Nils-Anders Vallgårda,54.5
+Kevin Jordan,Christa Miller,54.8
+Kevin Jordan,Derick Martini,55.1
+Kevin Jordan,Ion Overman,55.4
+Kevin Smith,Brian O'Halloran,55.7
+Kevin Smith,Jason Mewes,56
+Kevin Smith,Jeff Anderson,56.3
+Larry Charles,Tal Bachman,56.6
+Larry Charles,Bill Maher,56.9
+Larry Charles,Steve Burg,57.2
+Lee Unkrich,John Ratzenberger,57.5
+Lee Unkrich,Tom Hanks,57.8
+Lee Unkrich,Don Rickles,58.1
+Lloyd Bacon,Dick Powell,58.4
+Lloyd Bacon,Ginger Rogers,58.7
+Lloyd Bacon,George Brent,59
+Marc Forster,Christian Stolte,59.3
+Marc Forster,Will Ferrell,59.6
+Marc Forster,Danny Rhodes,59.9
+Marc Webb,Chloë Grace Moretz,60.2
+Marc Webb,Joseph Gordon-Levitt,60.5
+Marc Webb,Zooey Deschanel,60.8
+Mark Osborne,Wayne Knight,61.1
+Mark Osborne,Angelina Jolie Pitt,61.4
+Mark Osborne,Dan Fogler,61.7
+Mark Sandrich,Edward Everett Horton,62
+Mark Sandrich,Ginger Rogers,62.3
+Mark Sandrich,Eric Blore,62.6
+Martin Brest,Yaphet Kotto,62.9
+Martin Brest,Robert De Niro,63.2
+Martin Brest,Philip Baker Hall,63.5
+Martin McDonagh,Anna Madeley,63.8
+Martin McDonagh,Elizabeth Berrington,64.1
+Martin McDonagh,Eric Godon,64.4
+Martin Scorsese,Matthew McConaughey,64.7
+Martin Scorsese,Leonardo DiCaprio,65
+Martin Scorsese,Jon Favreau,65.3
+Matthew Vaughn,Deborah Twiss,65.6
+Matthew Vaughn,Elizabeth McGovern,65.9
+Matthew Vaughn,Michael Rispoli,66.2
+Mel Brooks,Peter Boyle,66.5
+Mel Brooks,David Huddleston,66.8
+Mel Brooks,Madeline Kahn,67.1
+Mel Brooks,Madeline Kahn,67.4
+Mel Brooks,Teri Garr,67.7
+Mel Brooks,Harvey Korman,68
+Michael McGowan,Adam Butcher,68.3
+Michael McGowan,Campbell Scott,68.6
+Michael McGowan,Gordon Pinsent,68.9
+Michel Hazanavicius,Ed Lauter,69.2
+Michel Hazanavicius,Berenice Bejo,69.5
+Michel Hazanavicius,Beth Grant,69.8
+Mike Judge,Stephen Root,70.1
+Mike Judge,Gary Cole,70.4
+Mike Judge,Diedrich Bader,70.7
+Mitchell Altieri,Luke Edwards,71
+Mitchell Altieri,Kimberley Crossman,71.3
+Mitchell Altieri,Bree Williamson,71.6
+Nathan Greno,Donna Murphy,71.9
+Nathan Greno,Brad Garrett,72.2
+Nathan Greno,M.C. Gainey,72.5
+Pedro Almod�var,Lola Due�as,72.8
+Pedro Almod�var,Carmen Maura,73.1
+Pedro Almod�var,Antonio de la Torre,73.4
+Pete Docter,Delroy Lindo,73.7
+Pete Docter,Mindy Kaling,74
+Pete Docter,John Ratzenberger,74.3
+Pete Docter,John Ratzenberger,74.6
+Pete Docter,Amy Poehler,74.9
+Pete Docter,Steve Buscemi,75.2
+Pete Docter,Jess Harnell,75.5
+Pete Docter,Phyllis Smith,75.8
+Pete Docter,James Coburn,76.1
+Peter Weir,Noah Emmerich,76.4
+Peter Weir,Josh Charles,76.7
+Peter Weir,Natascha McElhone,77
+Peter Weir,Robin Williams,77.3
+Peter Weir,Peter Krause,77.6
+Peter Weir,Kurtwood Smith,77.9
+Petter Næss,Per Christian Ellefsen,78.2
+Petter Næss,Jørgen Langhelle,78.5
+Petter Næss,Sven Nordin,78.8
+Phil Lord,Will Ferrell,79.1
+Phil Lord,Morgan Freeman,79.4
+Phil Lord,Alison Brie,79.7
+Pierre Coffin,Miranda Cosgrove,80
+Pierre Coffin,Steve Carell,80.3
+Pierre Coffin,Jack McBrayer,80.6
+Rajkumar Hirani,Sanjay Dutt,80.9
+Rajkumar Hirani,Vidya Balan,81.2
+Rajkumar Hirani,Jimmy Shergill,81.5
+Rakeysh Omprakash Mehra,Steven Mackintosh,81.8
+Rakeysh Omprakash Mehra,Anupam Kher,82.1
+Rakeysh Omprakash Mehra,Madhavan,82.4
+Rich Moore,Sarah Silverman,82.7
+Rich Moore,Jack McBrayer,83
+Rich Moore,Joe Lo Truglio,83.3
+Richard Curtis,Liam Neeson,83.6
+Richard Curtis,Colin Firth,83.9
+Richard Curtis,Kris Marshall,84.2
+Richard Lester,Ringo Starr,84.5
+Richard Lester,Paul McCartney,84.8
+Richard Lester,George Harrison,85.1
+Richard Linklater,Adam Goldberg,85.4
+Richard Linklater,Milla Jovovich,85.7
+Richard Linklater,Cole Hauser,86
+Rob Reiner,Gretchen Palmer,86.3
+Rob Reiner,Rebecca De Mornay,86.6
+Rob Reiner,Bruno Kirby,86.9
+Rob Reiner,Madeline Carroll,87.2
+Rob Reiner,Harley Jane Kozak,87.5
+Rob Reiner,Aidan Quinn,87.8
+Robert Stevenson,Glynis Johns,88.1
+Robert Stevenson,Ed Wynn,88.4
+Robert Stevenson,Elsa Lanchester,88.7
+Robert Zemeckis,Siobhan Fallon Hogan,89
+Robert Zemeckis,Jeffrey Weissman,89.3
+Robert Zemeckis,Thomas F. Wilson,89.6
+Robert Zemeckis,Tom Hanks,89.9
+Robert Zemeckis,Lea Thompson,90.2
+Robert Zemeckis,Lea Thompson,90.5
+Robert Zemeckis,Sam Anderson,90.8
+Robert Zemeckis,Thomas F. Wilson,91.1
+Robert Zemeckis,J.J. Cohen,91.4
+Ron Clements,Frank Welker,91.7
+Ron Clements,Robin Williams,92
+Ron Clements,Scott Weinger,92.3
+Ruben Fleischer,Bill Murray,92.6
+Ruben Fleischer,Emma Stone,92.9
+Ruben Fleischer,Derek Graf,93.2
+Sam Raimi,Bridget Fonda,93.5
+Sam Raimi,Dan Hicks,93.8
+Sam Raimi,Patricia Tallman,94.1
+Sam Raimi,Ted Raimi,94.4
+Sam Raimi,Embeth Davidtz,94.7
+Sam Raimi,Kassie Wesley DePaiva,95
+Scott Smith,Daphne Zuniga,95.3
+Scott Smith,Eric Mabius,95.6
+Scott Smith,Crystal Lowe,95.9
+Shane Black,Corbin Bernsen,96.2
+Shane Black,Robert Downey Jr.,96.5
+Shane Black,Larry Miller,96.8
+Shane Meadows,Paddy Considine,97.1
+Shane Meadows,Bob Hoskins,97.4
+Shane Meadows,Shane Meadows,97.7
+Spike Jonze,Meryl Streep,98
+Spike Jonze,Orson Bean,98.3
+Spike Jonze,Nicolas Cage,98.6
+Spike Jonze,Willie Garson,98.9
+Spike Jonze,Roger Willie,99.2
+Spike Jonze,Mary Kay Place,99.5
+Stanley Donen,Debbie Reynolds,99.8
+Stanley Donen,Rita Moreno,100.1
+Stanley Donen,Cyd Charisse,100.4
+Stanley Kramer,Sid Caesar,100.7
+Stanley Kramer,Jonathan Winters,101
+Stanley Kramer,Spencer Tracy,101.3
+Stanley Kubrick,Slim Pickens,101.6
+Stanley Kubrick,George C. Scott,101.9
+Stanley Kubrick,Keenan Wynn,102.2
+Stephane Aubier,Megan Mullally,102.5
+Stephane Aubier,Mackenzie Foy,102.8
+Stephane Aubier,Lambert Wilson,103.1
+Stephen Chow,Chi Ling Chiu,103.4
+Stephen Chow,Shengyi Huang,103.7
+Stephen Chow,Qiu Yuen,104
+Stephen Frears,Lili Taylor,104.3
+Stephen Frears,Drake Bell,104.6
+Stephen Frears,Lisa Bonet,104.9
+Sylvain Chomet,Charles Linton,105.2
+Sylvain Chomet,Michel Robin,105.5
+Sylvain Chomet,Beatrice Bonifassi,105.8
+Terry Gilliam,David Hyde Pierce,106.1
+Terry Gilliam,Michael Jeter,106.4
+Terry Gilliam,Michael Palin,106.7
+Terry Gilliam,Jeff Bridges,107
+Terry Gilliam,Johnny Depp,107.3
+Terry Gilliam,Eric Idle,107.6
+Terry Gilliam,Harry Shearer,107.9
+Terry Gilliam,Ellen Barkin,108.2
+Terry Gilliam,Terry Jones,108.5
+Tim Burton,Bill Murray,108.8
+Tim Burton,Johnny Depp,109.1
+Tim Burton,Martin Landau,109.4
+Tim McCanlies,Robert Duvall,109.7
+Tim McCanlies,Haley Joel Osment,110
+Tim McCanlies,Emmanuelle Vaugier,110.3
+Tim Miller,Ed Skrein,110.6
+Tim Miller,Ryan Reynolds,110.9
+Tim Miller,Stefan Kapicic,111.2
+Todd Phillips,Rob Riggle,111.5
+Todd Phillips,Bradley Cooper,111.8
+Todd Phillips,Mike Epps,112.1
+Todd Solondz,Jon Lovitz,112.4
+Todd Solondz,Philip Seymour Hoffman,112.7
+Todd Solondz,Dylan Baker,113
+Tom McCarthy,Joe Lo Truglio,113.3
+Tom McCarthy,Peter Dinklage,113.6
+Tom McCarthy,Paula Garces,113.9
+Trey Parker,Eric Idle,114.2
+Trey Parker,Minnie Driver,114.5
+Trey Parker,Trey Parker,114.8
+Wes Anderson,Meryl Streep,115.1
+Wes Anderson,Tom Wilkinson,115.4
+Wes Anderson,Anjelica Huston,115.7
+Wes Anderson,Bill Murray,116
+Wes Anderson,Connie Nielsen,116.3
+Wes Anderson,Bill Murray,116.6
+Wes Anderson,Bill Murray,116.9
+Wes Anderson,Bill Murray,117.2
+Wes Anderson,Bruce Willis,117.5
+Wes Anderson,Bill Murray,117.8
+Wes Anderson,Helen McCrory,118.1
+Wes Anderson,F. Murray Abraham,118.4
+Wes Anderson,Seymour Cassel,118.7
+Wes Anderson,Bob Balaban,119
+Wes Anderson,Olivia Williams,119.3
+Woody Allen,Audrey Fleurot,119.6
+Woody Allen,Don Pardo,119.9
+Woody Allen,Carol Kane,120.2
+Woody Allen,Kurt Fuller,120.5
+Woody Allen,Mike Starr,120.8
+Woody Allen,Woody Allen,121.1
+Woody Allen,Nina Arianda,121.4
+Woody Allen,Julie Kavner,121.7
+Woody Allen,Shelley Duvall,122
+Zach Braff,Michael Weston,122.3
+Zach Braff,Armando Riesco,122.6
+Zach Braff,Jill Flint,122.9
