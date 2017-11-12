@@ -1,44 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
-
-text {
-
-  background-color: steelblue;
-
-}
-
-
-rect.background {
-  fill: white;
-}
-
-.y.axis line {
-  stroke: #fff;
-}
-
-.y.axis .minor {
-  stroke-opacity: .5;
-}
-
-.y.axis path {
-  fill: none;
-  stroke: #000;
-}
-
-.x.axis line,
-.x.axis path {
-  display: none;
-}
-
-
-</style>
-<body>
-
-Click <a href="index.html">here</a> to go back
-
-<script src="d3.v3.min.js"></script>
-<script>
 
 var margin = {top: 40, right: 80, bottom: 100, left: 130},
     width = 1400 - margin.left - margin.right,
@@ -95,8 +54,6 @@ svg.append("g")
             "translate(" + (width/2) + " ," + 
                            (height + margin.top + 60) + ")")
       .style("text-anchor", "middle")
-      .text("Film Genre");
-
 
 
   // text label for the y axis
@@ -108,7 +65,7 @@ svg.append("g")
       .style("text-anchor", "middle")
       .text("Facebook Likes / Number of Films"); 
 
-d3.json("readme2.json", function(error, root) {
+d3.json("data/readme2.json", function(error, root) {
   if (error) throw error;
 	hierarchy.nodes(root);
   y.domain([0, root.value]).nice();
@@ -286,6 +243,3 @@ function stack(i) {
     return tx;
   };
 }
-
-</script>
-

@@ -1,0 +1,14 @@
+ html, body, #vis {
+        height: 85%;
+	width: 715px;
+        margin: 0;
+ }
+ 
+ label, output{
+	font-size:14px;
+ }
+		
+ .x.axis text {
+	text-anchor: end !important;
+	transform: rotate(-45deg);
+ }
