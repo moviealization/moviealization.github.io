@@ -1,8 +1,10 @@
+//set width and height
 var width = document.getElementById('vis')
     .clientWidth;
 var height = document.getElementById('vis')
     .clientHeight;
 
+//set attributes
 var margin = {
     top: 10,
     bottom: 70,
@@ -37,11 +39,14 @@ var x_axis = d3.axisBottom(x_scale);
 
 svg.append('g')
     .attr('class', 'x axis')
-    .attr('transform', 'translate(0,' + height + ')');
+    .attr('transform', 'translate(0,' + height + ')')
+	.style("font", "10px times");
 
 svg.append('g')
     .attr('class', 'y axis');
 
+	
+//create function draw
 function draw(year) {
 
     var csv_data = data[year];
@@ -78,6 +83,7 @@ function draw(year) {
         .attr('width', x_scale.bandwidth())
         .attr('y', height)
         .attr('height', 0)
+		
 
     new_bars.merge(bars)
         .transition(t)
@@ -93,6 +99,7 @@ function draw(year) {
 
     svg.select('.x.axis')
         .call(x_axis);
+	
 
     svg.select('.y.axis')
         .transition(t)
@@ -101,9 +108,11 @@ function draw(year) {
 	svg.append("text")             
       .attr("transform",
             "translate(" + (width/2) + " ," + 
-                           (height + margin.top + 40) + ")")
+                           (height + margin.top + 50) + ")")
       .style("text-anchor", "middle")
-      .text("Film Genre");
+    .style("font", "14px times") 
+	.text("Film Genre")
+	
 
 
 // text label for the y axis
@@ -113,8 +122,10 @@ function draw(year) {
       .attr("x",0 - (height / 2))
       .attr("dy", "1em")
       .style("text-anchor", "middle")
+	  .style("font", "14px times") 
       .text("Facebook Likes / Number of Films"); 
 
+//read json file
 d3.json("readme.json", function(error, root) {
   if (error) throw error;
 	hierarchy.nodes(root);
@@ -124,17 +135,17 @@ d3.json("readme.json", function(error, root) {
 }
 
 d3.queue()
-    .defer(d3.csv, 'p11.csv')
-    .defer(d3.csv, 'p10.csv')
-    .defer(d3.csv, 'p9.csv')
-    .defer(d3.csv, 'p8.csv')
-    .defer(d3.csv, 'p7.csv')
-    .defer(d3.csv, 'p6.csv')
-	.defer(d3.csv, 'p5.csv')
-	.defer(d3.csv, 'p4.csv')
-	.defer(d3.csv, 'p3.csv')
-	.defer(d3.csv, 'p2.csv')
-	.defer(d3.csv, 'p1.csv')
+    .defer(d3.csv, 'data/p11.csv')
+    .defer(d3.csv, 'data/p10.csv')
+    .defer(d3.csv, 'data/p9.csv')
+    .defer(d3.csv, 'data/p8.csv')
+    .defer(d3.csv, 'data/p7.csv')
+    .defer(d3.csv, 'data/p6.csv')
+	.defer(d3.csv, 'data/p5.csv')
+	.defer(d3.csv, 'data/p4.csv')
+	.defer(d3.csv, 'data/p3.csv')
+	.defer(d3.csv, 'data/p2.csv')
+	.defer(d3.csv, 'data/p1.csv')
     .await(function(error, d2016, d2006, d1996, d1986, d1976, d1966, d1956, d1946, d1936, d1926) {
         data['1926'] = d1926;
         data['1936'] = d1936;
@@ -148,6 +159,7 @@ d3.queue()
 		data['2016'] = d2016;
         draw('2016');
     });
+
 
 var slider = d3.select('#year');
 slider.on('change', function() {
