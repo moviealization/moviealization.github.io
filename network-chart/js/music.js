@@ -5,7 +5,7 @@ var drag = d3.behavior.drag()
 .on("drag", dragged)
 .on("dragend", dragended);
 
-d3.csv("data/mistery.csv", function(error, links) {
+d3.csv("data/music.csv", function(error, links) {
     var nodes = {};
     // Compute the distinct nodes from the links.
     links.forEach(function(link) {
