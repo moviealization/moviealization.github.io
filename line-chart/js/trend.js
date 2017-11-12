@@ -1,6 +1,6 @@
 //set the margins
 var margin = {top: 50, right: 160, bottom: 80, left: 50},
-    width = 1200 - margin.left - margin.right,
+    width = 850 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
 // set the type of number here, n is a number with a comma, .2% will get you a percent, .2f will get you 2 decimal points

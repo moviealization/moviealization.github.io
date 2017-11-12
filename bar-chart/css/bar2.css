@@ -1,0 +1,28 @@
+text {
+
+  background-color: steelblue;
+
+}
+
+
+rect.background {
+  fill: white;
+}
+
+.y.axis line {
+  stroke: #fff;
+}
+
+.y.axis .minor {
+  stroke-opacity: .5;
+}
+
+.y.axis path {
+  fill: none;
+  stroke: #000;
+}
+
+.x.axis line,
+.x.axis path {
+  display: none;
+}
