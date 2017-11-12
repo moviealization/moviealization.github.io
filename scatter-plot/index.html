@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-      <title>Moviealization - Trust and Business</title>
-      <script type="text/javascript" src="d3.v3.min.js"></script>
-    <script src="jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
-      <script src="jquery.tipsy.js" type="text/javascript" charset="utf-8"></script>
-      <link rel="stylesheet" href="tipsy.css" type="text/css" title="no title" charset="utf-8"/>
+      <title>Moviealization</title>
+      <script type="text/javascript" src="js/d3.v3.min.js"></script>
+    <script src="js/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
+      <script src="js/jquery.tipsy.js" type="text/javascript" charset="utf-8"></script>
+      <link rel="stylesheet" href="css/tipsy.css" type="text/css" title="no title" charset="utf-8"/>
   <style type="text/css">
       .axis path,
       .axis line {
@@ -70,7 +70,7 @@
   
   
   // bring in the data, and do everything that is data-driven
-  d3.csv("movie.csv", function(data) {
+  d3.csv("data/movie.csv", function(data) {
 
       // remove data with gross = NA
       data = data.filter(function(d) { return d.gross !== "NA"});
