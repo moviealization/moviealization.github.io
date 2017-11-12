@@ -1,0 +1,442 @@
+source,target,value
+Alejandro Amenabar,Elaine Cassidy,1
+Alejandro G. Inarritu,Tom Hardy,2
+Alejandro G. Inarritu,Jorge Salinas,3
+Alex Garland,Sonoya Mizuno,4
+Alex Proyas,William Hurt,5
+Alfonso Cuaron,Basher Savage,6
+Alfonso Cuaron,Danny Huston,7
+Alfred Hitchcock,Vera Miles,8
+Alfred Hitchcock,Rhonda Fleming,9
+Alfred Hitchcock,Joan Fontaine,10
+Andrew Davis,Daniel Roebuck,11
+Andrew Niccol,Jeremy Crutchley,12
+Andrew Niccol,Xander Berkeley,13
+Andrey Zvyagintsev,Vladimir Garin,14
+Antoine Fuqua,Snoop Dogg,15
+Ben Affleck,Scoot McNairy,16
+Ben Affleck,Jon Hamm,17
+Brad Anderson,Jennifer Jason Leigh,18
+Brian De Palma,Billy Drago,19
+Bryan Singer,Peter Dinklage,20
+Bryan Singer,Chazz Palminteri,21
+Chan-wook Park,Ji-tae Yu,22
+Christopher Nolan,Christian Bale,23
+Christopher Nolan,Tom Hardy,24
+Christopher Nolan,Hugh Jackman,25
+Christopher Nolan,Thomas Lennon,26
+Clint Eastwood,Michael Kelly,27
+Clint Eastwood,Spencer Treat Clark,28
+Curtis Hanson,Matt McCoy,29
+Dan Gilroy,Michael Papajohn,30
+Danny Boyle,Treat Williams,31
+Danny Boyle,Megan Burns,32
+Darren Aronofsky,Mila Kunis,33
+David Ayer,Anna Kendrick,34
+David Cronenberg,Naomi Watts,35
+David Fincher,Goran Visnjic,36
+David Fincher,Jake Gyllenhaal,37
+David Fincher,Sela Ward,38
+David Fincher,Armin Mueller-Stahl,39
+David Fincher,Brad Pitt,40
+David Lynch,Robert Forster,41
+Denis Villeneuve,Jake Gyllenhaal,42
+Denis Villeneuve,Bernardo Saracino,43
+Dennis Gansel,Elyas M'Barek,44
+Doug Liman,Josh Hamilton,45
+Edward Zwick,Djimon Hounsou,46
+Eric Bress,Eric Stoltz,47
+Ethan Coen,Stephen Root,48
+Fabian Bielinsky,Gaston Pauls,49
+Florian Henckel von Donnersmarck,Ulrich Muhe,50
+Francis Ford Coppola,Teri Garr,51
+Francis Lawrence,Josh Hutcherson,52
+Frank Miller,Powers Boothe,53
+Fred Zinnemann,Lloyd Bridges,54
+Gareth Evans,Yayan Ruhian,55
+George Miller,Charlize Theron,56
+George Miller,Bruce Spence,57
+Giovanni Zelko,Harry Lennix,58
+Guy Hamilton,Gert Frabe,59
+Guy Ritchie,Eddie Marsan,60
+Hong-jin Na,Jun Kunimura,61
+J.A. Bayona,Geraldine Chaplin,62
+James Cameron,Todd Graff,63
+James Marsh,Philippe Petit,64
+James McTeigue,Eddie Marsan,65
+James Wan,Frances O'Connor,66
+James Wan,Monica Potter,67
+Jay Oliva,Mark Valley,68
+Jerome Robbins,George Chakiris,69
+John Carpenter,Donald Pleasence,70
+John Carpenter,Donald Pleasence,71
+John Carpenter,Donald Pleasence,72
+John Frankenheimer,Paul Scofield,73
+John McTiernan,Aldis Hodge,74
+John McTiernan,Jeffrey Jones,75
+John McTiernan,Bruce Willis,76
+John Sturges,Donald Pleasence,77
+Jonathan Demme,Scott Glenn,78
+Jonathan Frakes,Alfre Woodard,79
+Jose Padilha,Fernanda Machado,80
+Joss Whedon,Sean Maher,81
+Juan Jose Campanella,Soledad Villamil,82
+Justin Paul Miller,Jennifer Landa,83
+Karan Johar,Jimmy Shergill,84
+Kathryn Bigelow,Christian Camargo,85
+Kevin Macdonald,Simon McBurney,86
+Kevin Reynolds,James Frain,87
+Lance McDaniel,Steven Michael Quezada,88
+M. Night Shyamalan,Haley Joel Osment,89
+Martin Brest,Yaphet Kotto,90
+Martin Campbell,Tobias Menzies,91
+Martin Campbell,Tobias Menzies,92
+Martin Scorsese,Matt Damon,93
+Martin Scorsese,Joseph Sikora,94
+Mel Gibson,Dalia Hernández,95
+Michael Mann,Rip Torn,96
+Michael Mann,Jada Pinkett Smith,97
+Mitchell Altieri,Luke Edwards,98
+Morten Tyldum,Rory Kinnear,99
+Morten Tyldum,Synnive Macody Lund,100
+Neil Burger,Eddie Marsan,101
+Neil Burger,Eddie Marsan,102
+Neill Blomkamp,Jed Brophy,103
+Niels Arden Oplev,David Dencik,104
+Oliver Stone,Jay O. Sanders,105
+Orson Welles,Everett Sloane,106
+Paul Greengrass,Edgar Ramírez,107
+Paul Greengrass,Joan Allen,108
+Paul Greengrass,Chris Mulkey,109
+Paul Greengrass,David Alan Basche,110
+Paul Haggis,Loretta Devine,111
+Paul Haggis,Loretta Devine,112
+Paul McGuigan,Morgan Freeman,113
+Paul McGuigan,Morgan Freeman,114
+Paul Verhoeven,Sebastian Koch,115
+Peter Berg,Scott Elrod,116
+Pierre Morel,Holly Valance,117
+Quentin Tarantino,Jennifer Jason Leigh,118
+Quentin Tarantino,Michael Parks,119
+Quentin Tarantino,Steve Buscemi,120
+Raja Menon,Sameer Ali Khan,121
+Richard Kelly,Mary McDonnell,122
+Ridley Scott,Sean Young,123
+Rob Reiner,Demi Moore,124
+Robert Rodriguez,Rosario Dawson,125
+Rupert Wyatt,David Oyelowo,126
+Sam Mendes,Helen McCrory,127
+Sam Mendes,Jennifer Jason Leigh,128
+Sam Mendes,Helen McCrory,129
+Sam Raimi,Dan Hicks,130
+Shane Meadows,Gary Stretch,131
+Spike Lee,James Ransone,132
+Steven Soderbergh,Bernie Mac,133
+Steven Soderbergh,Jacob Vargas,134
+Steven Spielberg,Frank Grillo,135
+Steven Spielberg,Moritz Bleibtreu,136
+Steven Spielberg,Ariana Richards,137
+Steven Spielberg,Mark Rylance,138
+Steven Spielberg,Robert Shaw,139
+Tony Scott,Radha Mitchell,140
+Tony Scott,Gary Oldman,141
+Troy Duffy,David Della Rocco,142
+William Friedkin,Joe Spinell,143
+William Friedkin,Fernando Rey,144
+William Friedkin,Fernando Rey,145
+Wolfgang Petersen,Martin Semmelrogge,146
+Woody Allen,Mark Gatiss,147
+Alejandro Amenábar,Fionnula Flanagan,148
+Alejandro G. Inarritu,Leonardo DiCaprio,149
+Alejandro G. Inarritu,Adriana Barraza,150
+Alex Garland,Elina Alminas,151
+Alex Proyas,Rufus Sewell,152
+Alfonso Cuaron,Phaldut Sharma,153
+Alfonso Cuaron,Charlie Hunnam,154
+Alfred Hitchcock,Janet Leigh,155
+Alfred Hitchcock,Norman Lloyd,156
+Alfred Hitchcock,Laurence Olivier,157
+Andrew Davis,Harrison Ford,158
+Andrew Niccol,Nicolas Cage,159
+Andrew Niccol,Blair Underwood,160
+Andrey Zvyagintsev,Konstantin Lavronenko,161
+Antoine Fuqua,Denzel Washington,162
+Ben Affleck,Clea DuVall,163
+Ben Affleck,Jeremy Renner,164
+Brad Anderson,Christian Bale,165
+Brian De Palma,Robert De Niro,166
+Bryan Singer,Jennifer Lawrence,167
+Bryan Singer,Kevin Spacey,168
+Chan-wook Park,Min-sik Choi,169
+Christopher Nolan,Tom Hardy,170
+Christopher Nolan,Leonardo DiCaprio,171
+Christopher Nolan,Christian Bale,172
+Christopher Nolan,Callum Rennie,173
+Clint Eastwood,Angelina Jolie Pitt,174
+Clint Eastwood,John Doman,175
+Curtis Hanson,Kevin Spacey,176
+Dan Gilroy,Jake Gyllenhaal,177
+Danny Boyle,James Franco,178
+Danny Boyle,Noah Huntley,179
+Darren Aronofsky,Natalie Portman,180
+David Ayer,Jake Gyllenhaal,181
+David Cronenberg,Viggo Mortensen,182
+David Fincher,Robin Wright,183
+David Fincher,Robert Downey Jr.,184
+David Fincher,Patrick Fugit,185
+David Fincher,Deborah Kara Unger,186
+David Fincher,Morgan Freeman,187
+David Lynch,Naomi Watts,188
+Denis Villeneuve,Hugh Jackman,189
+Denis Villeneuve,Edgar Arreola,190
+Dennis Gansel,Max Riemelt,191
+Doug Liman,Matt Damon,192
+Edward Zwick,Leonardo DiCaprio,193
+Eric Bress,Logan Lerman,194
+Ethan Coen,Kelly Macdonald,195
+Fabian Bielinsky,Ricardo Darin,196
+Florian Henckel von Donnersmarck,Sebastian Koch,197
+Francis Ford Coppola,Harrison Ford,198
+Francis Lawrence,Jennifer Lawrence,199
+Frank Miller,Rosario Dawson,200
+Fred Zinnemann,Gary Cooper,201
+Gareth Evans,Iko Uwais,202
+George Miller,Tom Hardy,203
+George Miller,Vernon Wells,204
+Giovanni Zelko,Zuhair Haddad,205
+Guy Hamilton,Honor Blackman,206
+Guy Ritchie,Robert Downey Jr.,207
+Hong-jin Na,Jung-min Hwang,208
+J.A. Bayona,Naomi Watts,209
+James Cameron,Michael Biehn,210
+James Marsh,Paul McGill,211
+James McTeigue,Natalie Portman,212
+James Wan,Javier Botet,213
+James Wan,Michael Emerson,214
+Jay Oliva,Michael Emerson,215
+Jerome Robbins,Rita Moreno,216
+John Carpenter,Jamie Lee Curtis,217
+John Carpenter,Jamie Lee Curtis,218
+John Carpenter,Jamie Lee Curtis,219
+John Frankenheimer,Jeanne Moreau,220
+John McTiernan,Bruce Willis,221
+John McTiernan,Scott Glenn,222
+John McTiernan,Alan Rickman,223
+John Sturges,James Coburn,224
+Jonathan Demme,Anthony Hopkins,225
+Jonathan Frakes,LeVar Burton,226
+Jose Padilha,Wagner Moura,227
+Joss Whedon,Adam Baldwin,228
+Juan Jose Campanella,Ricardo Darin,229
+Justin Paul Miller,Mary Kate Wiles,230
+Karan Johar,Shah Rukh Khan,231
+Kathryn Bigelow,Jeremy Renner,232
+Kevin Macdonald,David Oyelowo,233
+Kevin Reynolds,Henry Cavill,234
+Lance McDaniel,Russell Wong,235
+M. Night Shyamalan,Bruce Willis,236
+Martin Brest,Robert De Niro,237
+Martin Campbell,Eva Green,238
+Martin Campbell,Eva Green,239
+Martin Scorsese,Leonardo DiCaprio,240
+Martin Scorsese,Leonardo DiCaprio,241
+Mel Gibson,Rudy Youngblood,242
+Michael Mann,Al Pacino,243
+Michael Mann,Tom Cruise,244
+Mitchell Altieri,Kimberley Crossman,245
+Morten Tyldum,Benedict Cumberbatch,246
+Morten Tyldum,Aksel Hennie,247
+Neil Burger,Rufus Sewell,248
+Neil Burger,Rufus Sewell,249
+Neill Blomkamp,Sharlto Copley,250
+Niels Arden Oplev,Michael Nyqvist,251
+Oliver Stone,Sally Kirkland,252
+Orson Welles,Rita Hayworth,253
+Paul Greengrass,Matt Damon,254
+Paul Greengrass,Matt Damon,255
+Paul Greengrass,Tom Hanks,256
+Paul Greengrass,Christian Clemenson,257
+Paul Haggis,Don Cheadle,258
+Paul Haggis,Don Cheadle,259
+Paul McGuigan,Bruce Willis,260
+Paul McGuigan,Bruce Willis,261
+Paul Verhoeven,Michiel Huisman,262
+Peter Berg,Jerry Ferrara,263
+Pierre Morel,Liam Neeson,264
+Quentin Tarantino,Craig Stark,265
+Quentin Tarantino,Vivica A. Fox,266
+Quentin Tarantino,Quentin Tarantino,267
+Raja Menon,Nimrat Kaur,268
+Richard Kelly,Jake Gyllenhaal,269
+Ridley Scott,Harrison Ford,270
+Rob Reiner,Tom Cruise,271
+Robert Rodriguez,Quentin Tarantino,272
+Rupert Wyatt,James Franco,273
+Sam Mendes,Albert Finney,274
+Sam Mendes,Tom Hanks,275
+Sam Mendes,Albert Finney,276
+Sam Raimi,Ted Raimi,277
+Shane Meadows,Paddy Considine,278
+Spike Lee,Denzel Washington,279
+Steven Soderbergh,Brad Pitt,280
+Steven Soderbergh,Michael O'Neill,281
+Steven Spielberg,Tom Cruise,282
+Steven Spielberg,Ayelet Zurer,283
+Steven Spielberg,Wayne Knight,284
+Steven Spielberg,Tom Hanks,285
+Steven Spielberg,Roy Scheider,286
+Tony Scott,Denzel Washington,287
+Tony Scott,Brad Pitt,288
+Troy Duffy,Norman Reedus,289
+William Friedkin,Roy Scheider,290
+William Friedkin,Roy Scheider,291
+William Friedkin,Roy Scheider,292
+Wolfgang Petersen,Jurgen Prochnow,293
+Woody Allen,Scarlett Johansson,294
+Alejandro Amenábar,Eric Sykes,295
+Alejandro G. Inarritu,Lukas Haas,296
+Alejandro G. Inarritu,Goya Toledo,297
+Alex Garland,Corey Johnson,298
+Alex Proyas,Bruce Spence,299
+Alfonso Cuaron,Amy Warren,300
+Alfonso Cuaron,Rita Davies,301
+Alfred Hitchcock,John Gavin,302
+Alfred Hitchcock,Leo G. Carroll,303
+Alfred Hitchcock,George Sanders,304
+Andrew Davis,Sela Ward,305
+Andrew Niccol,Jared Burke,306
+Andrew Niccol,Mason Gamble,307
+Andrey Zvyagintsev,Nataliya Vdovina,308
+Antoine Fuqua,Tom Berenger,309
+Ben Affleck,Tate Donovan,310
+Ben Affleck,Owen Burke,311
+Brad Anderson,Reg E. Cathey,312
+Brian De Palma,Charles Martin Smith,313
+Bryan Singer,Hugh Jackman,314
+Bryan Singer,Kevin Pollak,315
+Chan-wook Park,Hye-jeong Kang,316
+Christopher Nolan,Joseph Gordon-Levitt,317
+Christopher Nolan,Joseph Gordon-Levitt,318
+Christopher Nolan,Scarlett Johansson,319
+Christopher Nolan,Jorja Fox,320
+Clint Eastwood,Colm Feore,321
+Clint Eastwood,Tom Guiry,322
+Curtis Hanson,Paul Guilfoyle,323
+Dan Gilroy,James Huang,324
+Danny Boyle,Kate Burton,325
+Danny Boyle,David Schneider,326
+Darren Aronofsky,Mark Margolis,327
+David Ayer,America Ferrera,328
+David Cronenberg,Raza Jaffrey,329
+David Fincher,Joely Richardson,330
+David Fincher,Anthony Edwards,331
+David Fincher,Emily Ratajkowski,332
+David Fincher,Charles Martinet,333
+David Fincher,Reg E. Cathey,334
+David Lynch,Laura Harring,335
+Denis Villeneuve,Dylan Minnette,336
+Denis Villeneuve,Daniel Kaluuya,337
+Dennis Gansel,Jennifer Ulrich,338
+Doug Liman,Nicky Naudé,339
+Edward Zwick,Stephen Collins,340
+Eric Bress,Cameron Bright,341
+Ethan Coen,Barry Corbin,342
+Fabian Bielinsky,Leticia Bredice,343
+Florian Henckel von Donnersmarck,Martina Gedeck,344
+Francis Ford Coppola,Cindy Williams,345
+Francis Lawrence,Sandra Ellis Lafferty,346
+Frank Miller,Jason Douglas,347
+Fred Zinnemann,Lon Chaney Jr.,348
+Gareth Evans,Donny Alamsyah,349
+George Miller,Zoë Kravitz,350
+George Miller,Kjell Nilsson,351
+Giovanni Zelko,Ben Youcef,352
+Guy Hamilton,Lois Maxwell,353
+Guy Ritchie,Robert Maillet,354
+Hong-jin Na,Woo-hee Chun,355
+J.A. Bayona,Oaklee Pendergast,356
+James Cameron,Mary Elizabeth Mastrantonio,357
+James Marsh,Jean-Louis Blondeau,358
+James McTeigue,Rupert Graves,359
+James Wan,Robin Atkin Downes,360
+James Wan,Shawnee Smith,361
+Jay Oliva,Grey Griffin,362
+Jerome Robbins,Richard Beymer,363
+John Carpenter,P.J. Soles,364
+John Carpenter,P.J. Soles,365
+John Carpenter,P.J. Soles,366
+John Frankenheimer,Michel Simon,367
+John McTiernan,Kevin Chamberlin,368
+John McTiernan,Courtney B. Vance,369
+John McTiernan,Reginald VelJohnson,370
+John Sturges,Gordon Jackson,371
+Jonathan Demme,Anthony Heald,372
+Jonathan Frakes,Jonathan Frakes,373
+Jose Padilha,Andre Ramiro,374
+Joss Whedon,Michael Hitchcock,375
+Juan Jose Campanella,Guillermo Francella,376
+Justin Paul Miller,Felix Avitia,377
+Karan Johar,Christopher B. Duncan,378
+Kathryn Bigelow,Brian Geraghty,379
+Kevin Macdonald,Abby Mukiibi Nkaaga,380
+Kevin Reynolds,Michael Wincott,381
+Lance McDaniel,Lymari Nadal,382
+M. Night Shyamalan,Olivia Williams,383
+Martin Brest,Philip Baker Hall,384
+Martin Campbell,Ivana Milicevic,385
+Martin Campbell,Ivana Milicevic,386
+Martin Scorsese,Ray Winstone,387
+Martin Scorsese,Nellie Sciutto,388
+Mel Gibson,Jonathan Brewer,389
+Michael Mann,Debi Mazar,390
+Michael Mann,Debi Mazar,391
+Mitchell Altieri,Bree Williamson,392
+Morten Tyldum,Allen Leech,393
+Morten Tyldum,Julie R. Ulgaard,394
+Neil Burger,Jake Wood,395
+Neil Burger,Jake Wood,396
+Neill Blomkamp,Jason Cope,397
+Niels Arden Oplev,Lena Endre,398
+Oliver Stone,Cheryl Penland,399
+Orson Welles,Ted de Corsia,400
+Paul Greengrass,Albert Finney,401
+Paul Greengrass,Oksana Akinshina,402
+Paul Greengrass,Michael Chernus,403
+Paul Greengrass,Susan Blommaert,404
+Paul Haggis,Jennifer Esposito,405
+Paul Haggis,Jennifer Esposito,406
+Paul McGuigan,Dorian Missick,407
+Paul McGuigan,Dorian Missick,408
+Paul Verhoeven,Christian Berkel,409
+Peter Berg,Dan Bilzerian,410
+Pierre Morel,Xander Berkeley,411
+Quentin Tarantino,Zoë Bell,412
+Quentin Tarantino,Michael Bowen,413
+Quentin Tarantino,Chris Penn,414
+Raja Menon,Purab Kohli,415
+Richard Kelly,James Duval,416
+Ridley Scott,M. Emmet Walsh,417
+Rob Reiner,Kevin Pollak,418
+Robert Rodriguez,Zoe Bell,419
+Rupert Wyatt,Tyler Labine,420
+Sam Mendes,Rory Kinnear,421
+Sam Mendes,Liam Aiken,422
+Sam Mendes,Rory Kinnear,423
+Sam Raimi,Kassie Wesley DePaiva,424
+Shane Meadows,George Newton,425
+Spike Lee,Peter Gerety,426
+Steven Soderbergh,Elliott Gould,427
+Steven Soderbergh,James Lew,428
+Steven Spielberg,Jessica Capshaw,429
+Steven Spielberg,Mathieu Amalric,430
+Steven Spielberg,Bob Peck,431
+Steven Spielberg,Amy Ryan,432
+Steven Spielberg,Murray Hamilton,433
+Tony Scott,Giancarlo Giannini,434
+Tony Scott,Michael Rapaport,435
+Troy Duffy,Bob Marley,436
+William Friedkin,Amidou,437
+William Friedkin,Tony Lo Bianco,438
+William Friedkin,Tony Lo Bianco,439
+Wolfgang Petersen,Herbert Granemeyer,440
+Woody Allen,Penelope Wilton,441
