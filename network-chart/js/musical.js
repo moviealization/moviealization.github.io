@@ -15,8 +15,8 @@ d3.csv("data/musical.csv", function(error, links) {
             (nodes[link.target] = {name: link.target});
         link.value = +link.value;
     });
-    var width = 716,
-        height = 634,
+    var width = 690,
+        height = 350,
         color = d3.scale.category20c();
 
     var force = d3.layout.force()
