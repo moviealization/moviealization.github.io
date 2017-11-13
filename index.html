@@ -61,12 +61,12 @@
 
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#scatter-plot"><span class="btnicon icon-user"></span>Scatter Plot</a></li>
-                        <li><a href="#bar-chart"><span class="btnicon icon-user"></span>Bar Chart</a></li>
-                        <li><a href="#line-chart"><span class="btnicon icon-user"></span>Line Chart</a></li>
-                        <li><a href="#network-chart"><span class="btnicon icon-user"></span>Network Chart</a></li>
-                        <li><a href="#feedback"><span class="btnicon icon-cup"></span>Feedback</a></li>
-                        <li><a href="#creator"><span class="btnicon icon-rocket"></span>Creator</a></li>
+                        <li><a href="#line-chart"><span class="btnicon icon-bar-chart"></span>Line Chart</a></li>
+                        <li><a href="#bar-chart"><span class="btnicon icon-bar-chart"></span>Bar Chart</a></li>
+                        <li><a href="#network-chart"><span class="btnicon icon-bar-chart"></span>Network Chart</a></li>
+                        <li><a href="#scatter-plot"><span class="btnicon icon-bar-chart"></span>Scatter Plot</a></li>
+                        <li><a href="#feedback"><span class="btnicon icon-bubble"></span>Feedback</a></li>
+                        <li><a href="#creator"><span class="btnicon icon-cup"></span>Creator</a></li>
                     </ul>
                 </div>
             </div>
@@ -108,7 +108,7 @@
 
     <hr>
 
-    <div id="scatter-plot" class="container">
+    <div id="line-chart" class="container">
         <div class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-bar-chart "></span>
             <h3>Line Chart</h3>
@@ -117,10 +117,10 @@
 
         <div class="col-md-4">
             <div class="row">
-                <h4 class="wow fadeInUp" data-wow-duration="3s">Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</h4>
+                <h4 class="wow fadeInUp" data-wow-duration="3s">Mengidentifikasi genre film apa yang paling banyak dirilis serta tren genre dalam periode tertentu.</h4>
 
-                <p class="wow fadeInDown" data-wow-duration="3s">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                <p class="wow fadeInDown" data-wow-duration="3s">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">Grafik ini menjelaskan jumlah film yang dirilis dalam periode tertentu, sehingga bisa di ketahui film apa yang sedang trend pada periode tersebut.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">Dari grafik ini juga dapat diketahui perkembangan genre film dalam suatu periode.</p>
             </div>
         </div>
 
@@ -159,16 +159,17 @@
 
         <div class="col-md-4">
             <div class="row">
-                <h4 class="wow fadeInUp" data-wow-duration="3s">Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</h4>
+                <h4 class="wow fadeInUp" data-wow-duration="3s">Mengidentifikasi genre film apa yang paling banyak peminatnya.</h4>
 
-                <p class="wow fadeInDown" data-wow-duration="3s">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                <p class="wow fadeInDown" data-wow-duration="3s">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">Dari grafik disamping, ditampilkan informasi perbandingan (Facebook Likes/Number of Films) tiap Film Genre setiap periode 10 tahun.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">Dilakukan perhitungan Facebook Likes/Number of Films dengan maksud agar perbandingan popularitas antar genrenya lebih seimbang.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">Terdapat link untuk melihat total perbandingan keseluruhan data (tahun 1916-2016). Apabila bar chart diseleksi salah satunya, maka akan muncul grafik lain berisi detail perbandingannya setiap periode 10 tahun untuk genre film tersebut.</p>
             </div>
         </div>
 
         <div class="col-md-8 wow fadeInUp myphoto" data-wow-duration="4s">
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://moviealization.github.io/bar-chart/index.html"></iframe>
+                <iframe class="embed-responsive-item" src="https://moviealization.github.io/bar-chart/"></iframe>
             </div>
         </div>
     </div>
@@ -191,7 +192,7 @@
 
     <hr>
 
-    <div id="line-chart" class="container">
+    <div id="network-chart" class="container">
         <div class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-bar-chart "></span>
             <h3>Network Chart</h3>
@@ -200,15 +201,16 @@
 
         <div class="col-md-4">
             <div class="row">
-                <h4 class="wow fadeInUp" data-wow-duration="3s">Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</h4>
+                <h4 class="wow fadeInUp" data-wow-duration="3s">Mengidentifikasi hubungan director dan actor pada film dengan IMDb score di atas 7.5.</h4>
 
-                <p class="wow fadeInDown" data-wow-duration="3s">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                <p class="wow fadeInDown" data-wow-duration="3s">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">Grafik di samping menunjukkan hubungan director dengan actor yang direpresentasikan sebagai node-node. Node asal merupakan director dan node yang dituju oleh anak panah merupakan actor yang pernah bekerja sama dalam satu film atau lebih. Pada grafik dapat dilakukan zoom dan menggeser grafik untuk bisa melakukan eksplorasi.</p>
             </div>
         </div>
 
         <div class="col-md-8 wow fadeInUp myphoto" data-wow-duration="4s">
-            <img src="assets/img/user.png" alt="Mamun Srizon">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://moviealization.github.io/network-chart/"></iframe>
+            </div>
         </div>
     </div>
 
@@ -231,7 +233,7 @@
 
     <hr>
 
-    <div id="network-chart" class="container">
+    <div id="scatter-plot" class="container">
         <div class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-bar-chart "></span>
             <h3>Scatter Plot Chart</h3>
@@ -240,10 +242,10 @@
 
         <div class="col-md-4">
             <div class="row">
-                <h4 class="wow fadeInUp" data-wow-duration="3s">Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</h4>
+                <h4 class="wow fadeInUp" data-wow-duration="3s">Mengetahui adanya hubungan antara nilai rating IMDb dan keuntungan film.</h4>
 
-                <p class="wow fadeInDown" data-wow-duration="3s">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                <p class="wow fadeInDown" data-wow-duration="3s">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">Scatter plot di samping menggambarkan hubungan antara nilai rating IMDb dengan keuntungan film. Walaupun hubungan antara keduanya tidak begitu kuat, tetapi cukup menggambarkan bahwa adanya hubungan yang positif antara nilai rating IMDb dan keuntungan film.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">Informasi dari sebuah film berupa judul film, tahun, nilai rating IMDb, dan keuntungan dari sebuah film dapat dilihat dengan menggeserkan kursor dan memilih pada pada suatu titik dalam scatter plot, maka akan muncul informasi rinciannya (tooltip).</p>
             </div>
         </div>
 
@@ -264,7 +266,7 @@
             <h3>Ambil waktu sejenak untuk mengisi feedback tentang situs ini pada link di bawah:</h3>
             <hr class="separetor">
 
-            <a class="btn btn-default wow fadeInUp" href="http://dribbble.com/srizon" role="button">
+            <a class="btn btn-default wow fadeInUp" target="_blank" href="https://goo.gl/forms/a9LkgaEdzJGiAYN33" role="button">
                 <span class="btnicon icon-bubble"></span>
                 <span class="button_text">Click Here</span>
             </a>
@@ -312,10 +314,10 @@
             <div class="footerlinks">
                 <ul>
                     <li><a href="#hero">Home</a></li>
-                    <li><a href="#scatter-plot">Scatter Plot</a></li>
-                    <li><a href="#bar-chart">Bar Chart</a></li>
                     <li><a href="#line-chart">Line Chart</a></li>
+                    <li><a href="#bar-chart">Bar Chart</a></li>
                     <li><a href="#network-chart">Network Chart</a></li>
+                    <li><a href="#scatter-plot">Scatter Plot</a></li>
                     <li><a href="#feedback">Feedback</a></li>
                     <li><a href="#creator">Creator</a></li>
                 </ul>
