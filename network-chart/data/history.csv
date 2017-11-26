@@ -1,0 +1,178 @@
+source,target,value
+Adam McKay,Christian Bale,1
+Adam McKay,Ryan Gosling,2
+Adam McKay,Charlie Talbert,3
+Ari Folman,Ronny Dayag,4
+Ari Folman,Ari Folman,5
+Ari Folman,Zahava Solomon,6
+Ben Affleck,Scoot McNairy,7
+Ben Affleck,Clea DuVall,8
+Ben Affleck,Tate Donovan,9
+Bernardo Bertolucci,Joan Chen,10
+Bernardo Bertolucci,Cary-Hiroyuki Tagawa,11
+Bernardo Bertolucci,Victor Wong,12
+Christian Carion,Dany Boon,13
+Christian Carion,Gary Lewis,14
+Christian Carion,Ian Richardson,15
+Chuan Lu,Yuanyuan Gao,16
+Chuan Lu,Ye Liu,17
+Chuan Lu,Ryu Kohata,18
+Clint Eastwood,Kazunari Ninomiya,19
+Clint Eastwood,Yuki Matsuzaki,20
+Clint Eastwood,Shida Nakamura,21
+D.W. Griffith,Mae Marsh,22
+D.W. Griffith,Lillian Gish,23
+D.W. Griffith,Walter Long,24
+David Fincher,Jake Gyllenhaal,25
+David Fincher,Robert Downey Jr.,26
+David Fincher,Anthony Edwards,27
+David Lean,Jose Ferrer,28
+David Lean,Claude Rains,29
+David Lean,Jack Hawkins,30
+David Sington,Buzz Aldrin,31
+David Sington,John F. Kennedy,32
+David Sington,Neil Armstrong,33
+Edward Zwick,Tony Goldwyn,34
+Edward Zwick,Morgan Freeman,35
+Edward Zwick,Morgan Freeman,36
+Edward Zwick,Tom Cruise,37
+Edward Zwick,Denzel Washington,38
+Edward Zwick,Denzel Washington,39
+Edward Zwick,Chad Lindberg,40
+Edward Zwick,Matthew Broderick,41
+Edward Zwick,Matthew Broderick,42
+F. Gary Gray,Neil Brown Jr.,43
+F. Gary Gray,Aldis Hodge,44
+F. Gary Gray,R. Marcos Taylor,45
+Fred Zinnemann,Susannah York,46
+Fred Zinnemann,Robert Shaw,47
+Fred Zinnemann,Paul Scofield,48
+George P. Cosmatos,Dana Delany,49
+George P. Cosmatos,Michael Biehn,50
+George P. Cosmatos,Powers Boothe,51
+Gus Van Sant,Denis O'Hare,52
+Gus Van Sant,James Franco,53
+Gus Van Sant,Lucas Grabeel,54
+James Marsh,Philippe Petit,55
+James Marsh,Paul McGill,56
+James Marsh,Jean-Louis Blondeau,57
+Jean-Jacques Annaud,Gabriel Thomson,58
+Jean-Jacques Annaud,Bob Hoskins,59
+Jean-Jacques Annaud,Clemens Schick,60
+Jehane Noujaim,Ahmed Hassan,61
+Jehane Noujaim,Khalid Abdalla,62
+Jehane Noujaim,Aida Elkashef,63
+John Sturges,Donald Pleasence,64
+John Sturges,James Coburn,65
+John Sturges,Gordon Jackson,66
+Joshua Oppenheimer,Herman Koto,67
+Joshua Oppenheimer,Anwar Congo,68
+Joshua Oppenheimer,Syamsul Arifin,69
+Kathryn Bigelow,Christian Camargo,70
+Kathryn Bigelow,Jeremy Renner,71
+Kathryn Bigelow,Brian Geraghty,72
+Ken Annakin,Richard Beymer,73
+Ken Annakin,Richard Burton,74
+Ken Annakin,Eddie Albert,75
+Kenneth Branagh,Derek Jacobi,76
+Kenneth Branagh,Brian Blessed,77
+Kenneth Branagh,Danny Webb,78
+Kevin Macdonald,Simon McBurney,79
+Kevin Macdonald,David Oyelowo,80
+Kevin Macdonald,Abby Mukiibi Nkaaga,81
+Mel Gibson,Patrick McGoohan,82
+Mel Gibson,Mhairi Calvey,83
+Mel Gibson,James Robinson,84
+Michael Wadleigh,Jimi Hendrix,85
+Michael Wadleigh,Joe Cocker,86
+Michael Wadleigh,Joan Baez,87
+Milos Forman,F. Murray Abraham,88
+Milos Forman,Jeffrey Jones,89
+Milos Forman,Tom Hulce,90
+Moustapha Akkad,Rod Steiger,91
+Moustapha Akkad,Oliver Reed,92
+Moustapha Akkad,John Gielgud,93
+Oliver Hirschbiegel,Bruno Ganz,94
+Oliver Hirschbiegel,Thomas Kretschmann,95
+Oliver Hirschbiegel,Alexandra Maria Lara,96
+Oliver Stone,Jay O. Sanders,97
+Oliver Stone,Sally Kirkland,98
+Oliver Stone,Cheryl Penland,99
+Paul Greengrass,David Alan Basche,100
+Paul Greengrass,Nicholas Farrell,101
+Paul Greengrass,Christian Clemenson,102
+Paul Greengrass,James Nesbitt,103
+Paul Greengrass,Susan Blommaert,104
+Paul Greengrass,Tim Pigott-Smith,105
+Peter H. Hunt,Ken Howard,106
+Peter H. Hunt,Blythe Danner,107
+Peter H. Hunt,Howard Caine,108
+Philip Kaufman,Scott Glenn,109
+Philip Kaufman,Dennis Quaid,110
+Philip Kaufman,Sam Shepard,111
+Philip Saville,Alan Van Sprang,112
+Philip Saville,Henry Ian Cusick,113
+Philip Saville,Scott Handy,114
+Raja Menon,Sameer Ali Khan,115
+Raja Menon,Nimrat Kaur,116
+Raja Menon,Purab Kohli,117
+Rakeysh Omprakash Mehra,Steven Mackintosh,118
+Rakeysh Omprakash Mehra,Anupam Kher,119
+Rakeysh Omprakash Mehra,Madhavan,120
+Richard Attenborough,Amrish Puri,121
+Richard Attenborough,Candice Bergen,122
+Richard Attenborough,John Gielgud,123
+Richard Brooks,Robert Blake,124
+Richard Brooks,John Forsythe,125
+Richard Brooks,Will Geer,126
+Ridley Scott,Sam Shepard,127
+Ridley Scott,Ioan Gruffudd,128
+Ridley Scott,Ewen Bremner,129
+Ron Howard,Miko Hughes,130
+Ron Howard,Tom Hanks,131
+Ron Howard,Kathleen Quinlan,132
+Ron Maxwell,William Morgan Sheppard,133
+Ron Maxwell,Tom Berenger,134
+Ron Maxwell,James Patrick Stuart,135
+Sadyk Sher-Niyaz,Aziz Muradillayev,136
+Sadyk Sher-Niyaz,Elina Abai Kyzy,137
+Sadyk Sher-Niyaz,Mirlan Abdulayev,138
+Spike Lee,Delroy Lindo,139
+Spike Lee,Denzel Washington,140
+Spike Lee,Al Freeman Jr.,141
+Stacy Peralta,Gabrielle Reece,142
+Stacy Peralta,Gerry Lopez,143
+Stacy Peralta,Laird John Hamilton,144
+Stanley Kubrick,Steven Berkoff,145
+Stanley Kubrick,Ryan O'Neal,146
+Stanley Kubrick,Hardy Kruger,147
+Steve McQueen,Scoot McNairy,148
+Steve McQueen,Quvenzhane Wallis,149
+Steve McQueen,Taran Killam,150
+Steven Spielberg,Moritz Bleibtreu,151
+Steven Spielberg,Mark Rylance,152
+Steven Spielberg,Ayelet Zurer,153
+Steven Spielberg,Tom Hanks,154
+Steven Spielberg,Mathieu Amalric,155
+Steven Spielberg,Amy Ryan,156
+Terry George,Sophie Okonedo,157
+Terry George,Don Cheadle,158
+Terry George,Hakeem Kae-Kazim,159
+Tom Hooper,Jennifer Ehle,160
+Tom Hooper,Colin Firth,161
+Tom Hooper,Derek Jacobi,162
+Tom McCarthy,Jamey Sheridan,163
+Tom McCarthy,Billy Crudup,164
+Tom McCarthy,Brian d'Arcy James,165
+Victor Fleming,George Reeves,166
+Victor Fleming,Hattie McDaniel,167
+Victor Fleming,Thomas Mitchell,168
+Yimou Zhang,Ni Ni,169
+Yimou Zhang,Tony Chiu Wai Leung,170
+Yimou Zhang,Tony Chiu Wai Leung,171
+Yimou Zhang,Christian Bale,172
+Yimou Zhang,Jet Li,173
+Yimou Zhang,Jet Li,174
+Yimou Zhang,Shigeo Kobayashi,175
+Yimou Zhang,Maggie Cheung,176
+Yimou Zhang,Maggie Cheung,177
