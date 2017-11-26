@@ -32,20 +32,22 @@ var y_scale = d3.scaleLinear()
     .range([height, 0]);
 
 var colour_scale = d3.scaleQuantile()
-    .range(["#ffffe5", "#fff7bc", "#fee391", "#fec44f", "#fe9929", "#ec7014", "#cc4c02", "#993404", "#662506"]);
+    .range(["#fec44f", "#fe9929", "#ec7014", "#cc4c02", "#993404", "#662506"]);
 
 var y_axis = d3.axisLeft(y_scale);
 var x_axis = d3.axisBottom(x_scale);
 
-svg.append('g')
+	svg.append('g')
     .attr('class', 'x axis')
     .attr('transform', 'translate(0,' + height + ')')
-	.style("font", "10px times");
+	.style("font", "11px times");
 
 svg.append('g')
     .attr('class', 'y axis');
 
-	
+
+
+
 //create function draw
 function draw(year) {
 
@@ -73,6 +75,8 @@ function draw(year) {
         .exit()
         .remove();
 
+
+
     var new_bars = bars
         .enter()
         .append('rect')
@@ -83,8 +87,30 @@ function draw(year) {
         .attr('width', x_scale.bandwidth())
         .attr('y', height)
         .attr('height', 0)
-		
+		.on("mouseover", mouseover)
+    .on("mousemove", mousemove)
+    .on("mouseout", mouseout);
 
+var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("display", "none");
+
+function mouseover(d) {
+  div.style("display", "inline")
+  div.text(d.value);
+}
+
+function mousemove(d) {
+  div
+      .text(d.value)
+      .style("left", (d3.event.pageX - 34) + "px")
+      .style("top", (d3.event.pageY - 12) + "px");
+}
+
+function mouseout() {
+  div.style("display", "none");
+}
+	
     new_bars.merge(bars)
         .transition(t)
         .attr('y', function(d) {
@@ -96,6 +122,7 @@ function draw(year) {
         .attr('fill', function(d) {
             return colour_scale(+d.value);
         })
+		
 
     svg.select('.x.axis')
         .call(x_axis);
@@ -110,7 +137,7 @@ function draw(year) {
             "translate(" + (width/2) + " ," + 
                            (height + margin.top + 50) + ")")
       .style("text-anchor", "middle")
-    .style("font", "14px times") 
+    .style("font", "16px times") 
 	.text("Film Genre")
 	
 
@@ -122,8 +149,9 @@ function draw(year) {
       .attr("x",0 - (height / 2))
       .attr("dy", "1em")
       .style("text-anchor", "middle")
-	  .style("font", "14px times") 
+	  .style("font", "16px times") 
       .text("Facebook Likes / Number of Films"); 
+
 
 //read json file
 d3.json("readme.json", function(error, root) {
