@@ -19,20 +19,20 @@ d3.csv("data/action.csv", function(error, links) {
             (nodes[link.target] = {name: link.target});
         link.value = +link.value;
     });
-    var width = 690,
-        height = 350,
-        color = d3.scale.category20c();
+    var //width=1300,
+        height=540;
+        //color = d3.scale.category20c();
 
     var force = d3.layout.force()
         .nodes(d3.values(nodes))
         .links(links)
-        .size([width,height])
+     //   .size([width,height])
         .linkDistance(100)
         .charge(-300)
         .on("tick", tick)
         .start();
     var svg = d3.select("body").append("svg")
-        .attr("width", width)
+        .attr("width", '100%')
         .attr("height", height)
         .call(d3.behavior.zoom().on("zoom", function () {
             svg.attr("transform", "translate(" + d3.event.translate + ")" + " scale(" + d3.event.scale + ")")
