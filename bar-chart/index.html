@@ -5,6 +5,7 @@
     <title>Document</title>
 	<script type="text/javascript" src="js/d3.v4.min.js"></script>
 	<script type="text/javascript" src="js/d3-queue.min.js"></script>
+	<script type="text/javascript" src="js/d3.tip.v0.6.3.js"></script>
     <link rel="stylesheet" type="text/css" href="css/bar1.css">
 </head>
 <body>
@@ -12,7 +13,6 @@
         <label for="year">Please select a period: </label>
         <input type="range" min=1926 max=2016 step=10 id="year" value=2016 oninput="selected_year.value = year.value-9 +'-'+ year.value">
         <output name="selected_year" id="selected_year">2007-2016</output>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label>Click <a href="viewfullbar.html" onclick="return !window.open(this.href, 'Google', 'width=1350,height=610')" target="_blank">here</a> to view full data</label>
     </form>
     <div id="vis">
     </div>
