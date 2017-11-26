@@ -1,41 +1,39 @@
 <!DOCTYPE html>
 <html>
-    <meta charset="utf-8">
-    <title>Moviealization</title>
-    <script type="text/javascript" src="https://d3js.org/d3.v3.js"></script>
-    <script type="text/javascript" src="js/load.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    
+    <head>
+        <meta charset="utf-8">
+        <title>Moviealization</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css?v=2">
+        <script type="text/javascript" src="https://d3js.org/d3.v3.js"></script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script type="text/javascript" src="js/choose.js"></script>
+        <script>$(function(){ $("#genre").trigger("change");});</script>
+    </head>
     <body>
-   
-        <form action="">
-            <select id="genre" name="genre" onchange="loadJS(this.value)">
-                <option value="action">Action</option>
-                <option value="adventure">Adventure</option>
-                <option value="animation">Animation</option>
-                <option value="biography">Biography</option>
-                <option value="comedy">Comedy</option>
-                <option value="crime">Crime</option>
-                <option value="documentary">Documentary</option>
-                <option value="drama">Drama</option>
-                <option value="family">family</option>
-                <option value="fantasy">Fantasy</option>
-                <option value="film-noir">Film-noir</option>
-                <option value="history">History</option>
-                <option value="horror">Horror</option>
-                <option value="mistery">Mistery</option>
-                <option value="music">Music</option>
-                <option value="musical">Musical</option>
-                <option value="news">News</option>
-                <option value="romance">Romance</option>
-                <option value="sci-fi">Sci-fi</option>
-                <option value="sport">Sport</option>
-                <option value="thriler">Thriler</option>
-                <option value="war">War</option>
-                <option value="western">Western</option>
-            </select>
-
-        <script src="js/action.js"></script>
-
+        <select id="genre" name="genre" onchange="loadJS(this.value)">
+            <option value="action">Action</option>
+            <option value="adventure">Adventure</option>
+            <option value="animation">Animation</option>
+            <option value="biography">Biography</option>
+            <option value="comedy">Comedy</option>
+            <option value="crime">Crime</option>
+            <option value="documentary">Documentary</option>
+            <option value="drama">Drama</option>
+            <option value="family">family</option>
+            <option value="fantasy">Fantasy</option>
+            <option value="film-noir">Film-noir</option>
+            <option value="history">History</option>
+            <option value="horror">Horror</option>
+            <option value="mistery">Mistery</option>
+            <option value="music">Music</option>
+            <option value="musical">Musical</option>
+            <option value="news">News</option>
+            <option value="romance">Romance</option>
+            <option value="sci-fi">Sci-fi</option>
+            <option value="sport">Sport</option>
+            <option value="thriler">Thriler</option>
+            <option value="war">War</option>
+            <option value="western">Western</option>
+        </select>
     </body>
 </html>
