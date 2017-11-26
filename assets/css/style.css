@@ -275,6 +275,10 @@ FOLLOW BUTTON
     border-right-color: white;
 }
 
+.center-paragraph {
+    text-align: center;
+    margin-bottom: 5%;
+}
 
 @media (max-width: 767px){
     .shots img{margin-bottom: 15px; max-width: 90%}
