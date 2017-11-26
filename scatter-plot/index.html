@@ -36,8 +36,8 @@
   <script type="text/javascript">
       // set the stage
       var margin = {t:30, r:50, b:20, l:80 },
-          w = 650 - margin.l - margin.r,
-          h = 350 - margin.t - margin.b,
+          w = 750 - margin.l - margin.r,
+          h = 530 - margin.t - margin.b,
           x = d3.scale.linear().range([0, w]),
           y = d3.scale.linear().range([h - 60, 0]),
           //colors that will reflect movie's content rating
@@ -114,7 +114,11 @@
           r: 2,
           id: function(d) { return d.movie_title; }
         })
-          .style("fill", function(d) { return color(d.content_rating); });
+        .style("fill", "#009933");
+          // (uncomment to enable circle color by content rating)
+          //.style("fill", function(d) { return color(d.content_rating); });
+
+          
 
       // what to do when we mouse over a bubble
       var mouseOn = function() { 
@@ -222,8 +226,8 @@
           .text("Gross Profit (USD)");    
       });
 
-      // the legend color guide
-      var legend = svg.selectAll("rect")
+      // the legend color guide (uncomment to enable circle color by content rating)
+      /* var legend = svg.selectAll("rect")
               .data(contentRating)
           .enter().append("rect")
           .attr({
@@ -232,11 +236,11 @@
             width: 25,
             height: 12
           })
-          .style("fill", function(d) { return color(d); });
+          .style("fill", function(d) { return color(d); }); */
   
   
-      // legend labels	
-          svg.selectAll("text")
+      // legend labels (uncomment to enable circle color by content rating)
+          /* svg.selectAll("text")
               .data(contentRating)
           .enter().append("text")
           .attr({
@@ -250,7 +254,7 @@
           x: 80,
           y: h + 5
           })
-          .text("Content Rating :");
+          .text("Content Rating :"); */
       
   </script>
   
